@@ -213,4 +213,5 @@ Stretch Questions
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
 
       The box model is the structure by which a element is visible on a webpage; an element's box model consists of (inward to outermost) the content container that holds the main portion of the element, the  padding which is the space between the content and the border, the border which is the layer right outside the padding and what most people see as the "edge" of an element, and the margin which is the space between the border and the outside of the the element.
+      The "fix" for the box model is to use relative measurements like em or rem.
 
